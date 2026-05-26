@@ -12,7 +12,7 @@ I'm a passionate and self-driven developer focused on building clean, efficient,
 - - 🌱 I'm currently learning **React**, **Node.js**, and **Data Structures & Algorithms**
   - - 👯 I'm looking to collaborate on open-source beginner-friendly projects
     - - 💬 Ask me about **Python**, **JavaScript**, and **Web Development**
-      - - 📫 How to reach me: [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+      - - 📫 How to reach me: [LinkedIn](#)
         - - ⚡ Fun fact: I enjoy solving puzzles and breaking down complex problems into simple solutions
          
           - ---
@@ -40,19 +40,12 @@ I'm a passionate and self-driven developer focused on building clean, efficient,
 
           ## 🚀 What's Coming
 
-          I'm actively building projects that I'll be adding here soon, including:
-          - A full-stack web application
-          - - Python automation scripts
-            - - A portfolio website
-             
-              - Stay tuned! 🌟
-             
-              - ---
+          I'm actively building projects that I'll be adding here soon, including a full-stack web application, Python automation scripts, and a portfolio website. Stay tuned! 🌟
 
-              <p align="center">
-                <em>"The best way to get started is to quit talking and begin doing." – Walt Disney</em>em>
-              </p>p>
-              
-              <p align="center">
-                Thanks for visiting my profile! ⭐ Star some repos if you find them helpful!
-              </p>p></em>
+          ---
+
+          <p align="center">
+            <em>"The best way to get started is to quit talking and begin doing." – Walt Disney</em>em>
+          </p>p>
+          
+          <p align="center">Thanks for visiting my profile! ⭐ Star some repos if you find them helpful!</p>p></em>
